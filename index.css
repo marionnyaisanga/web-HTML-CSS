@@ -1,0 +1,201 @@
+
+.homepage{
+    background-image:url(image/main\ image.jpg);
+    width: 100%;
+    height: 800px;
+    text-align: center;
+    font-size: larger;
+    
+    
+}
+.contacts{
+    display: flex;
+}
+.email{
+    margin-left: 8%;
+}
+.phone{
+    margin-left: 70%;
+}
+header #text{
+    text-align: center;
+    background-color: black;
+    color: #f7f5f8;
+}
+.home a{
+    text-decoration: none;
+    color: rgb(105, 102, 102);
+    margin-left: 100px;
+    text-align: center;
+}
+.home{
+    text-align: center;
+}
+.homepage h6 {
+    padding-top: 20%;
+    
+}
+.homepage button {
+   background-color: rgb(214, 160, 11);
+   width: 200px;
+   height: 50px;
+   border: none;
+   color: white;
+   text-decoration: solid;
+}
+.learn #about {
+    text-decoration: underline;
+    color: rgb(214, 160, 11);
+    font-size: smaller;
+    
+}
+.learn{
+    padding-left: 30%;
+    width: 15%;
+    border: salmon solid;
+}
+.year #singe{
+text-decoration: underline;
+color: rgb(214, 160, 11);
+font-size: smaller;
+}
+.people {
+    display: flex;
+}
+.year {
+    padding-right: 10px;
+    
+}
+.block{
+    display: flex;
+}
+.here #our {
+text-decoration: underline;
+color: rgb(214, 160, 11);
+font-size: smaller;
+text-align: center;
+}
+.here h2 {
+    text-align: center;
+}
+.packing{
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    padding-top: 10%;
+    border: 1px solid black;
+    margin-left: 500px;
+
+}
+.storage{
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    padding-top: 10%;
+    border: 1px solid black;
+    margin-left: 20px;
+    background-color: rgb(54, 133, 236);
+    color: white;
+}
+.transport{
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    padding-top: 10%;
+    border: 1px solid black;
+    margin-left: 20px;
+}
+.insurance{
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    padding-top: 10%;
+    border: 1px solid black;
+    margin-left: 20px;
+}
+.here{
+    text-align: center;
+}
+.riaad p{
+    text-decoration: underline;
+color: rgb(214, 160, 11);
+font-size: smaller;
+}
+.whyriaad {
+    display: flex;
+    
+}
+.riaad {
+    width: 200px;
+    border: solid 1px ;
+    background-color: white;
+    padding: 30px;
+    margin-left: 40px;
+    color: black;
+    margin-top: 20px;
+}
+.blue {
+    background-color: rgb(15, 82, 128);
+    width: 350px;
+    height: 500px;
+    margin-right: 50px;
+    margin-top: 50px;
+    background-image: url(image/image\ 3.jpeg);
+    background-repeat: no-repeat;
+    background-size: 320px;
+    color: white;
+    
+}
+.choose{
+    margin-left: 80px;
+}
+.discover{
+    display: flex;
+    background-color: rgb(214, 160, 11);
+    color: white;
+    font-size: larger;
+    text-align: center;
+    padding: 50px;
+    
+}
+.discover button{
+    height: 50px;
+    color: white;
+    background-color: black;
+    border: none;
+    font-size: small;
+    margin-left: 65%;
+    
+}
+.black{
+    display: flex;
+    margin-right: 300px;
+}
+footer{
+    background-color: black;
+    color: white;
+
+}
+.bottom{
+    display: flex;
+}
+.black ul{
+    
+    
+
+}
+.address{
+    padding: 15px;
+    margin-left: 40%;
+}
+#copyright{
+    text-align: center;
+}
+.legal{
+    padding:15px ;
+    list-style-type: none;
+}
+.info{
+    padding:15px ;
+    list-style-type: none;
+}
