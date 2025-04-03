@@ -1,139 +1,173 @@
-
-.homepage{
-    background-image:url(image/main\ image.jpg);
+.homepage {
+    background-image: url(image/main\ image.jpg);
     width: 100%;
     height: 800px;
     text-align: center;
     font-size: larger;
-    
-    
 }
-.contacts{
+
+.contacts {
     display: flex;
 }
-.email{
+
+.email {
     margin-left: 8%;
 }
-.phone{
+
+.phone {
     margin-left: 70%;
 }
-header #text{
+
+header #text {
     text-align: center;
     background-color: black;
     color: #f7f5f8;
 }
-.home a{
+
+.home a {
     text-decoration: none;
     color: rgb(105, 102, 102);
     margin-left: 100px;
     text-align: center;
 }
-.home{
+
+.home {
     text-align: center;
 }
+
 .homepage h6 {
     padding-top: 20%;
-    
+
 }
+
 .homepage button {
-   background-color: rgb(214, 160, 11);
-   width: 200px;
-   height: 50px;
-   border: none;
-   color: white;
-   text-decoration: solid;
+    background-color: rgb(214, 160, 11);
+    width: 200px;
+    height: 50px;
+    border: none;
+    color: white;
+    text-decoration: solid;
 }
+
 .learn #about {
     text-decoration: underline;
     color: rgb(214, 160, 11);
     font-size: smaller;
-    
+
 }
-.learn{
+
+.learn {
     padding-left: 30%;
     width: 15%;
-    border: salmon solid;
+
 }
-.year #singe{
-text-decoration: underline;
-color: rgb(214, 160, 11);
-font-size: smaller;
+
+.year #singe {
+    text-decoration: underline;
+    color: rgb(214, 160, 11);
+    font-size: smaller;
 }
+
 .people {
     display: flex;
 }
+
 .year {
     padding-right: 10px;
-    
+
 }
-.block{
+
+.block {
     display: flex;
 }
+
 .here #our {
-text-decoration: underline;
-color: rgb(214, 160, 11);
-font-size: smaller;
-text-align: center;
+    text-decoration: underline;
+    color: rgb(214, 160, 11);
+    font-size: smaller;
+    text-align: center;
 }
+
 .here h2 {
     text-align: center;
 }
-.packing{
+
+.packing {
     width: 200px;
-    height: 300px;
+    height: 200px;
     text-align: center;
-    padding-top: 10%;
+    padding-top: 5%;
     border: 1px solid black;
     margin-left: 500px;
 
 }
-.storage{
+
+.storage {
     width: 200px;
-    height: 300px;
+    height: 200px;
     text-align: center;
-    padding-top: 10%;
+    padding-top: 5%;
     border: 1px solid black;
     margin-left: 20px;
     background-color: rgb(54, 133, 236);
     color: white;
+
 }
-.transport{
+
+.transport {
     width: 200px;
-    height: 300px;
+    height: 200px;
     text-align: center;
-    padding-top: 10%;
+    padding-top: 5%;
     border: 1px solid black;
     margin-left: 20px;
 }
-.insurance{
+
+.insurance {
     width: 200px;
-    height: 300px;
+    height: 200px;
     text-align: center;
-    padding-top: 10%;
+    padding-top: 5%;
     border: 1px solid black;
     margin-left: 20px;
 }
-.here{
+
+.helping {
+    margin-left: 40%;
+    padding: 2%;
+}
+
+.step {
+    display: flex;
+    gap: 5%;
+}
+
+.here {
     text-align: center;
 }
-.riaad p{
+
+.riaad p {
     text-decoration: underline;
-color: rgb(214, 160, 11);
-font-size: smaller;
+    color: rgb(214, 160, 11);
+    font-size: smaller;
 }
+
 .whyriaad {
     display: flex;
-    
+    margin-left: 25%;
+
 }
+
 .riaad {
     width: 200px;
-    border: solid 1px ;
+    border: solid 1px;
     background-color: white;
     padding: 30px;
     margin-left: 40px;
     color: black;
     margin-top: 20px;
 }
+
 .blue {
     background-color: rgb(15, 82, 128);
     width: 350px;
@@ -144,58 +178,174 @@ font-size: smaller;
     background-repeat: no-repeat;
     background-size: 320px;
     color: white;
-    
+
 }
-.choose{
+
+.choose {
     margin-left: 80px;
 }
-.discover{
+
+.discover {
     display: flex;
     background-color: rgb(214, 160, 11);
     color: white;
     font-size: larger;
     text-align: center;
     padding: 50px;
-    
+
 }
-.discover button{
+
+.discover button {
     height: 50px;
     color: white;
     background-color: black;
     border: none;
     font-size: small;
     margin-left: 65%;
-    
+
 }
-.black{
+
+.black {
     display: flex;
     margin-right: 300px;
 }
-footer{
+
+footer {
     background-color: black;
     color: white;
 
 }
-.bottom{
+
+.bottom {
     display: flex;
 }
-.black ul{
-    
-    
+
+.whyriaad #question {
+    margin-top: 50%;
+
 
 }
-.address{
+
+.address {
     padding: 15px;
     margin-left: 40%;
 }
-#copyright{
+
+#copyright {
     text-align: center;
 }
-.legal{
-    padding:15px ;
+
+.legal {
+    padding: 15px;
     list-style-type: none;
 }
-.info{
-    padding:15px ;
+.choose p1{
+color:rgb(214, 160, 11) ;
+text-decoration: underline;
+}
+
+.info {
+    padding: 15px;
     list-style-type: none;
+}
+
+.form form {
+    display: flex;
+    gap: 5%;
+    background-color: rgb(15, 82, 128);
+    height: 150px;
+    padding: 50px;
+}
+
+.form input {
+    height: 25%;
+
+}
+
+.request {
+    display: flex;
+    height: 200px;
+    padding-top: 50px;
+    width: 100%;
+    margin-left: 24%;
+
+}
+
+.book {
+    background-color: rgb(214, 160, 11);
+    width: 500px;
+
+    height: 125%;
+}
+
+.book h2 {
+    padding: 50px;
+    padding-right: 100px;
+}
+
+.testimonials {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+
+}
+
+.testimony {
+    text-align: center;
+    padding-top: 5%;
+}
+
+#find {
+    text-decoration: underline;
+    color: rgb(247, 245, 241);
+
+    padding-left: 8%;
+}
+
+.blog {
+    display: flex;
+    margin-left: 30%;
+    gap: 15%;
+}
+
+.updates {
+    text-align: center;
+    padding-top: 5%;
+}
+
+.updates h3 {
+    text-decoration: underline;
+    color: rgb(214, 160, 11);
+}
+
+.updates h1 {
+    font-size: 300%;
+}
+
+.subscribe {
+    display: flex;
+    gap: 30%;
+    padding-left: 35%;
+}
+
+.subscribe button {
+    background-color: rgb(214, 160, 11);
+    color: white;
+    border: none;
+    padding: 2%;
+    font-weight: bold;
+}
+
+.updates p {
+    font-size: 150%;
+    color: grey;
+}
+
+.news {
+    text-align: center;
+}
+
+.news p {
+    color: rgb(214, 160, 11);
+    text-decoration: underline;
 }
